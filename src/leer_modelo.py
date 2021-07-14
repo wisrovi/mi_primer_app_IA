@@ -1,5 +1,5 @@
 import tensorflow as tf
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
 import numpy as np
 
 NAME_FILE = "demo/cat.jpg"

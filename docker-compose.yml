@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+    api_send_email:
+      container_name: api_ia
+      image: api_ia:V1.0
+      ports:
+         - 52000:1990
+      restart: always
+      privileged: true
