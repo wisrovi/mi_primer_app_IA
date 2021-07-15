@@ -21,7 +21,7 @@ htmlRta = {
         '''
     <!doctype html>
     <title>Servidor IA</title>
-    <h1>Servidor de Reconocimiento Facial WISROVI</h1>
+    <h1>Servidor de Reconocimiento gatos y perros WISROVI</h1>
     <form method=post enctype=multipart/form-data>
       <p><input type=file name=%s>
          <input type=submit value=Upload>
